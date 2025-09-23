@@ -13,7 +13,7 @@ SnapGap — профессиональный инструмент для точ�
 
 ## 🔗 Ссылки
 
-- Email: o.bogumirski@gmail.com
+- Email: o.bogumirsky@gmail.com
 - App Store: [Скоро]
 
 ## 📄 Лицензия
